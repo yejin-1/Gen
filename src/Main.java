@@ -59,18 +59,22 @@ public class Main {
     }
 
 
-    public static String[] crossOver(int[] x)
-    {
+    public static String int2String(String x) {
+        return String.format("%8s", x).replace(' ', '0');
+    }
+
+    public static String[] crossOver(int[] x) {
         String[] arr = new String[x.length];
-        for(int i=0; i<x.length; i+=2)
-        {
-            arr[i] = String.valueOf((x[i]+x[i+1])*(1/4));
-            arr[i+1] = String.valueOf((x[i]+x[i+1])*(3/4));
+        for(int i=0; i<x.length; i+=2) {
+            String bit1 = int2String(Integer.toBinaryString(x[i]));
+            String bit2 = int2String(Integer.toBinaryString(x[i+1]));
+
+            arr[i] = bit1.substring(0, 2) + bit2.substring(2, 8);
+            arr[i+1] = bit2.substring(0, 2) + bit1.substring(2, 8);
         }
 
         return arr;
     }
-
     public static int invert(String x)
     {
         Random r = new Random();
@@ -79,7 +83,7 @@ public class Main {
             double p = (double)1/ (double)10;
             if(r.nextDouble() < p)
             {
-                a = 1 << 2 ^ a;
+                a = 1 << i ^ a;
             }
         }
         return a;

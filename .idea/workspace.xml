@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593094431376</updated>
-      <workItem from="1593094435478" duration="9647000" />
+      <workItem from="1593094435478" duration="10481000" />
     </task>
     <servers />
   </component>
@@ -76,6 +76,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1593094444319" />
+    <state x="624" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1593118982544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593118982544" />
     <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1593117963171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -84,34 +88,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="854" y="375" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593117788770" />
-    <state width="1865" height="667" key="GridCell.Tab.0.bottom" timestamp="1593117422020">
+    <state width="1865" height="667" key="GridCell.Tab.0.bottom" timestamp="1593119300177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593117422020" />
-    <state width="1865" height="667" key="GridCell.Tab.0.center" timestamp="1593117422020">
+    <state width="1865" height="667" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
+    <state width="1865" height="667" key="GridCell.Tab.0.center" timestamp="1593119300177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593117422020" />
-    <state width="1865" height="667" key="GridCell.Tab.0.left" timestamp="1593117422019">
+    <state width="1865" height="667" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
+    <state width="1865" height="667" key="GridCell.Tab.0.left" timestamp="1593119300177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593117422019" />
-    <state width="1865" height="667" key="GridCell.Tab.0.right" timestamp="1593117422020">
+    <state width="1865" height="667" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
+    <state width="1865" height="667" key="GridCell.Tab.0.right" timestamp="1593119300177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593117422020" />
+    <state width="1865" height="667" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
     <state x="351" y="78" key="SettingsEditor" timestamp="1593117751708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="351" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593117751708" />
-    <state x="904" y="31" key="Vcs.Push.Dialog.v2" timestamp="1593117625879">
+    <state x="904" y="31" key="Vcs.Push.Dialog.v2" timestamp="1593118599349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="904" y="31" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593117625879" />
+    <state x="904" y="31" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593118599349" />
     <state x="729" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593117617501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="729" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593117617501" />
+    <state x="653" y="233" key="refactoring.ChangeSignatureDialog" timestamp="1593118976484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="233" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593118976484" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
