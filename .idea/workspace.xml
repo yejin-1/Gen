@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../team project" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593094431376</updated>
-      <workItem from="1593094435478" duration="8881000" />
+      <workItem from="1593094435478" duration="9246000" />
     </task>
     <servers />
   </component>
@@ -76,10 +76,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1593094444319" />
-    <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1593117740592">
+    <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1593117963171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593117740592" />
+    <state x="687" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593117963171" />
     <state x="854" y="375" key="Github.ShareDialog" timestamp="1593117788770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
