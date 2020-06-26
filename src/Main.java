@@ -83,7 +83,7 @@ public class Main {
             double p = (double)1/ (double)10;
             if(r.nextDouble() < p)
             {
-                a = 1 << i ^ a;
+                a = 2 << i ^ a;
             }
         }
         return a;

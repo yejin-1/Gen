@@ -65,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593094431376</updated>
       <workItem from="1593094435478" duration="10481000" />
+      <workItem from="1593153191917" duration="1938000" />
     </task>
     <servers />
   </component>
@@ -88,22 +89,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="854" y="375" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593117788770" />
-    <state width="1865" height="667" key="GridCell.Tab.0.bottom" timestamp="1593119300177">
+    <state width="1865" height="667" key="GridCell.Tab.0.bottom" timestamp="1593154706158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
-    <state width="1865" height="667" key="GridCell.Tab.0.center" timestamp="1593119300177">
+    <state width="1865" height="667" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593154706158" />
+    <state width="1865" height="667" key="GridCell.Tab.0.center" timestamp="1593154706158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
-    <state width="1865" height="667" key="GridCell.Tab.0.left" timestamp="1593119300177">
+    <state width="1865" height="667" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593154706158" />
+    <state width="1865" height="667" key="GridCell.Tab.0.left" timestamp="1593154706157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
-    <state width="1865" height="667" key="GridCell.Tab.0.right" timestamp="1593119300177">
+    <state width="1865" height="667" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593154706157" />
+    <state width="1865" height="667" key="GridCell.Tab.0.right" timestamp="1593154706158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="667" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593119300177" />
+    <state width="1865" height="667" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593154706158" />
     <state x="351" y="78" key="SettingsEditor" timestamp="1593117751708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -120,16 +121,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="233" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593118976484" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
